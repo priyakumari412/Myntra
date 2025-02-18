@@ -5,7 +5,7 @@ html , body{
     margin: 0;
 }
 /* for hour on images */
-.shadow {
+.shadow:hover {
     box-shadow:rgba(37, 39, 43, 0.1) 0px 10px 10px -10px ;
     
 }
