@@ -93,8 +93,8 @@ height: 40vh;
 
 /* 1st img flex */
 .imgflex1 {
-    display: flex;
-    flex-wrap: wrap; /* Allow wrapping */
+    display: grid;
+    grid-template-colums: 1fr 1fr 1fr 1fr; /* Allow wrapping */
     justify-content: center;
     width: 100%;
     padding:10px;
